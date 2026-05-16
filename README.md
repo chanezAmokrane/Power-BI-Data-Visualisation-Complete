@@ -1,2 +1,22 @@
-# Power-BI-Data-Visualisation-Complete
-Couverture complète des fonctionnalités de data visualisation Power BI : signets, navigation, visuels IA, extraction, interrapport, What-if et rapports paginés
+# Power BI – Création de Rapports Avancés
+
+Dashboard complet couvrant les fonctionnalités avancées de Power BI Desktop.
+
+## 📊 Aperçu
+
+
+## ⚡ Fonctionnalités couvertes
+- Navigation & Signets
+- Info-bulles personnalisées
+- Visuels IA (Influenceurs clés, Arbre de décomposition, Q&R, Narratives)
+- Interrapport & Extraction (Drillthrough)
+- What-if Paramètre
+- Regroupement, Binning & Clustering
+- Lignes de référence & Prévisions
+- Vue mobile
+
+## 📁 Fichiers
+- `dashboard.pbix` → rapport complet Power BI
+
+## 🔜 À venir
+Publication sur Power BI Service
