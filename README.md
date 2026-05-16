@@ -63,15 +63,6 @@ Ajout de lignes de référence analytiques directement sur les visuels :
 
 ---
 
-## 📁 Fichiers
-
-| Fichier | Description |
-|---|---|
-| `dashboard_data_viz.pbix` | Rapport complet Power BI |
-
----
-
-## 🔜 À venir
 
 - Publication sur **Power BI Service**
 - Lien interactif du rapport en ligne
