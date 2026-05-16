@@ -4,12 +4,6 @@ Rapport Power BI couvrant les fonctionnalités avancées de data visualisation :
 
 ---
 
-## 🖥️ Aperçu du Dashboard
-
-![Dashboard Principal](screenshots/dashboard_data_viz.png)
-
----
-
 ## 🔖 Signets & Navigation
 
 Mise en place d'une navigation dynamique avec signets pré-enregistrés pour filtrer les données sans perdre l'état du rapport.
@@ -40,7 +34,7 @@ Ajout de lignes de référence analytiques directement sur les visuels :
 - Ligne Centile
 - Prévision automatique
 
-![Analyse Supplémentaire](screenshots/Analyse_supplimentaire.png)
+![Analyse Supplémentaire](screenshots/Analyse_supplémentaire.png)
 
 ---
 
